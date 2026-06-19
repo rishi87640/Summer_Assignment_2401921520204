@@ -29,7 +29,7 @@ public:
            else
            {
             count=count+lower[i]-1;
-             odd=1;
+             odd=1;74
            }
         }
 
