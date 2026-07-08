@@ -76,18 +76,4 @@ public:
              || hasPathSum(root->right,targetSum); 
     }
 };
-View less
  
-Write your notes here
-Select related tags
-0/5
-Back to Problem
-Copyright © 2026 LeetCode
-Download App
-Help Center
-Bug Bounty
-Assessment
-Terms
-Privacy Policy
-
-India
